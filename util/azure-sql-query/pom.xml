@@ -13,7 +13,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
-        <mssql-jdbc.version>12.10.0.jre11</mssql-jdbc.version>
+        <mssql-jdbc.version>12.10.2.jre11</mssql-jdbc.version>
         <azure-identity.version>1.15.3</azure-identity.version>
     </properties>
 
